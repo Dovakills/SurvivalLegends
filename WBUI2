@@ -1,0 +1,187 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 4,
+			"hideicon": true,
+			"hideiconafter": 30,
+			"iconurl": "https://i.imgur.com/tZKC6lb.png",
+			"disableicontext": false,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": false,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 1
+		},
+		"tabs": [
+			{
+				"layout": 2,
+				"buttontext": "Welcome",
+				"imageurl": "https://i.imgur.com/UDvOqUL.png",
+				"content": [
+					{
+						"title": "Welcome",
+						"text": "Here at the ArkLegends community we strive to provide everyone who joins with the type of Ark experience they desire and expect. \r\n\r\nEveryone here is helpful and respectful and we intend to keep it that way. \r\n\r\nThe admin team here has been playing Ark since 2015 and has years of server hosting experience. \r\n\r\nWe host our servers on our own dedicated server box (not server rental sites). \r\n\r\nThis allows us to provide the smoothest experience possible with amazing customization and features. \r\n\r\nWe have settings that are slightly boosted and mods that can be utilized to provide a faster experience thus bringing a \"balance\" of multiple play style options to the community.\r\n\r\nPLEASE READ!!!\r\nTribes are auto created for you on ALL maps, just change the name as needed. You cannot make different tribes on different maps. You cannot have multiple characters,"
+					},
+					{
+						"title": "Rules",
+						"text": "• Use common sense. Treat others the way you want to be treated.\r\n\r\n* 1 base per tribe per map(With the except of a water pen)\r\n\r\n• The primary language of this server is English.\r\n\r\n• Do not openly fight with others in view of the public.\r\n\r\n• Do not spam messages, images, emoji, commands, and @mentions.\r\n\r\n• Aggressive or 'toxic' behavior will not be tolerated.\r\n\r\n• No posting content related to piracy, cheats, cracks, exploits along with NSFW.\r\n\r\n• 18+ voice channel is for adult communication, it is not an open platform for racist, sexist or violent speech and will be enforced by being banned from that channel and possibly the   Discord and/or game servers.\r\n\r\n• Do not PM mods or admins unless you have a valid and specific private issue with another mod or admin that you have a grievance with.\r\n\r\n• Do not submit-a-ticket  unless it is necessary (transfer recovery, name change,  Subscriber package delivery, etc.) Most issues can be helped through the communityhelp channel more efficiently.\r\n\r\n• Suggestions for the servers/Discord should be handled in that channel and should be accompanied by links for any mods that you would like to see added to the servers.\r\n\r\n• Some channels have additional rules to be followed from that channel such as Auctions.   Those rules should be followed strictly and in conjunction with other Community rules.\r\n\r\n• Crosschat-Link Is mandatory if you want support from the team\r\n\r\nDont build close to others as best you can.\r\n\r\nDont spam pillars, foundations or anything else on any map that ia NOT part of your base\r\n\r\nDont block Artifacts and Explorer notes of any kind\r\n\r\nDont block heavy resource spawns"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Settings",
+				"imageurl": "https://i.imgur.com/UDvOqUL.png",
+				"content": [
+					{
+						"title": "Rates",
+						"text": "Taming Speed Multiplier 10 (Instant with potion mod)\r\nHarvest Amount Multiplier 4\r\nBaby Mature Speed Multiplier 3 (Instant with Potion mod)\r\nCuddle Interval 0.4\r\nSpeed multiplier for the hatching of eggs 7\r\nMating Interval Multiplier 0.7 (Instant with Potion mod)\r\nFishing Loot Quality Multiplier 3\r\nSupply Crate Loot Quality Multiplier 3\r\nXP Multiplier 3\r\nStamina Multiplier\r\n0.8\r\nPlayer.Starvation Multiplier 0.8\r\nGeneral Draining Multipliers 0.8\r\nWeight per stat point +100\r\nFortitude per stat point +50\r\nModded Loot Drops"
+					},
+					{
+						"title": "MODS",
+						"text": "Nanoh's Spyglass\r\nNanoh's Ascended Accessories\r\nNanoh's Ascended Saddles\r\nJvh Landscaping\r\nSkyshroud: Drakara\r\nJumping Spiders\r\nCKF\r\nMouse Saver\r\nCyber's Structures\r\nAwesome Teleporters\r\nDraconic Chronicles\r\nShiny Dino's\r\nLutra's Potion Vending Machine\r\nArkitect Structures Remastered\r\nDraconis Glaucus\r\nMoros Indomitable Duo/Notho\r\nAmissa Additions\r\nS-Dinos\r\nKlingers Rustic Buildings\r\nAstreos Mythical Creatures \r\nArkLegendsPVE Coin (For Poker games on event map only)\r\nScribbles Signs\r\nTek Dinos Mod"
+					}
+				]
+			},
+			{
+				"layout": 4,
+				"buttontext": "Features",
+				"imageurl": "https://i.imgur.com/UDvOqUL.png",
+				"content": [
+					{
+						"title": "Automation/In-game Shop",
+						"text": "Our external webshop is 99% automated. See webshop pack for details.\r\n\r\nIn-game shop can be opened by pressing F4 on PC or on consoles by opening the radial wheel menu and selecting the ArkShopUI button. A tutorial video of the in-game shop can be found in the discord under the \"Info\" channel, if needed."
+					},
+					{
+						"title": "Points",
+						"text": "Discord Boost Rewards\r\nPlaytime rewards\r\nVote Rewards\r\nReview Rewards\r\nPlayers earn 9 points per 10 mins.\r\nVote rewards are 400 points per vote.\r\nVIP earns 13 points per 10 mins.\r\nVIP+ earns 16 points per 10 mins.\r\nVIP++ earns 19 points per 10 mins."
+					},
+					{
+						"title": "Support Team",
+						"text": "The most positive flex according to the community is our amazing admin/mod team full of dedicated individuals that love to play Ark and love to help the community."
+					},
+					{
+						"title": "Vote Rewards",
+						"text": "Vote rewards are 250 points per vote and you can vote for 6 servers per site per day 1 time each day for a total of 1500 points."
+					}
+				]
+			},
+			{
+				"layout": 4,
+				"buttontext": "Feat Mods",
+				"imageurl": "https://i.imgur.com/UDvOqUL.png",
+				"content": [
+					{
+						"title": "Dino Depot",
+						"text": "DD Terminal allows for-\r\nPassive production of resources and unfertilized eggs\r\n\r\nDino Balls- Dinos kept in balls gain 2x exp and regen buffs\r\n\r\nBaby pickup- If DD Balls are in the terminal they will automatically pickup your baby dinos and ball them in the DD terminal as long as you have this feature enabled."
+					},
+					{
+						"title": "Shiny Dinos",
+						"text": "Most of you know this mod. This is how we configured it here.\r\n\r\nUp to 15 total per map. (We have alot of maps)\r\nLevels 145 to 190\r\nSpawn interval Min 15m Max 30m\r\nLifetime Min 3hr Max 6hr"
+					},
+					{
+						"title": "Draconic Chronicles",
+						"text": "Lots of custom Dragons and Wyverns\r\nIncubator\r\nCustom Bosses\r\nCustom Spawning system so there is no spawn conflicts"
+					},
+					{
+						"title": "Cyber Structures",
+						"text": "Similar to the S+ mod from ASE\r\nPassive production options from Vivariums, Aggregator, Gacha Gavager\r\nPassive breeding/mutating via the Propagator"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Webshop",
+				"imageurl": "https://i.imgur.com/UDvOqUL.png",
+				"content": [
+					{
+						"title": "WEBSHOP",
+						"text": "The external webshop link can be found in Discord via the webshop help channel or by clicking the Webshop button below. A detailed tutorial on how to use the external webshop can be found in the Webshop-help channel.\r\n"
+					},
+					{
+						"title": "ArkShop",
+						"text": "Our points/currency system runs off ArkShop. ArkShop also provides our auto delivered starter kits. You can also trade points to other players ingame for buying/selling purposes. Ingame items/dinos can only be purchased using points via the Arkshop by pressing F4 on pc, and radial wheel for consoles"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Player List",
+				"imageurl": "https://i.imgur.com/UDvOqUL.png",
+				"content": [
+					{
+						"title": "Current Players Online",
+						"text": "{playerlist}"
+					},
+					{
+						"title": "Tarifas",
+						"text": "Multiplicador de velocidad de domesticación 10 (instantáneo con mod de poción)\r\nMultiplicador de cantidad de cosecha 5\r\nMultiplicador de velocidad 3 para bebés maduros (instantáneo con mod de poción)\r\nIntervalo de abrazo 0.4\r\nMultiplicador de velocidad para la eclosión de huevos 7\r\nMultiplicador de intervalo de apareamiento 0.7 (instantáneo con mod de poción)\r\nMultiplicador de calidad del botín de pesca 3\r\nMultiplicador de calidad del botín de la caja de suministros 3\r\nMultiplicador de XP 3\r\nMultiplicador de resistencia\r\n0,8\r\nPlayer.Starvation Multiplicador 0.8\r\nMultiplicadores de drenaje general 0,8\r\nPeso por punto de estadística +100\r\nFortaleza por punto de estadística +50\r\nOtras estadísticas son 30 por punto.\r\nGotas de botín modificadas"
+					},
+					{
+						"title": "Modificaciones",
+						"text": "Humanos_NPC_ASA\r\nGSA\r\nImpresionanteSpyGlass\r\nAhorrador de ratón\r\nGigantoraptor\r\nPlataformas Oceánicas de Alfa\r\ngrifos\r\nApilamiento TG 1000/90\r\ncalidad de vida+\r\nTeletransportadores impresionantes\r\nCrónicas draconianas\r\nDinos brillantes\r\nLas locas pociones ascendidas de Crazy\r\nEstructuras Arkitect remasterizadas\r\nRecolectores de recursos\r\nConstructores enanos\r\nHiper extras\r\nDisfraces Míticos\r\nAdiciones ascendidas: todos los dinosaurios\r\nDraconis Glauco\r\nPeinados MarniiMods\r\nDúo Indomable de Moros\r\ndetener el robo\r\nArmario Cliffans"
+					}
+				]
+			},
+			{
+				"layout": 4,
+				"buttontext": "Plugins",
+				"imageurl": "https://i.imgur.com/UDvOqUL.png",
+				"content": [
+					{
+						"title": "Lethal Decay",
+						"text": "The Auto Decay timer/s DO NOT run off the type of material used but off of the tribes activity as a whole meaning the timer starts when the last member of the tribe logs off. \r\n\r\nDefault Auto Decay has been set to 7 days! You can check your decay timer while looking at your structure/s with this chat command- /decaytime\r\n\r\nFeatures- \r\nMap Sync Decay Timers- You will only have to travel to 1 map you have structures or dinos on 1 time to associate your tribe with the auto decay timers then after that they will update across all maps as you join a server and leave.\r\nIgnored Structures- Oil Pump\r\nInstant Decay- Campfire\r\nPrevent Offline Breeding\r\n Vip roles provide longer decay times."
+					},
+					{
+						"title": "ItemsPlus",
+						"text": "This plugin governs our global weight reduction which is 90%.\r\n\r\nIt also takes us off the vanilla item/character transfer system. When you transfer you dont have to upload items into any inventory you just simply transfer. It will also cryo your shoulder pet for you and any inventory inside it.\r\n\r\nWhen you try to transfer and a message comes up saying \"You cant transfer with the items in your inventory just type /upload then continue your transfer.\r\n\r\nWhen you show up to the server you transferred to all your stuff should download to your inventory. If it does not type /download or travel back to the previous server you transferred from. If none of that works make a ticket in the discord."
+					},
+					{
+						"title": "Lethal Quests",
+						"text": "This plugin provides a robust quest system designed by the ArkLegendsPVE team.\r\nTo open the UI press F2 for PC, Console pull up the radial wheel and click the Berry icon.\r\nIncludes-\r\n1 time only quests\r\nDaily Quests(Resets every day)\r\nWeekly Quests(Resets every week)\r\n\r\nRewards include- Shop points, XP, resources, weapons, armor, BP's. etc."
+					},
+					{
+						"title": "Lethal Structure Limit",
+						"text": "This plugin governs the structure limit per tribe\r\nTribe Structure limit is 6500. \r\nConnected structure limit is 1250\r\nCommands:\r\nLimits:\"/limits\", //Shows a message with all limit counts\r\nLinked:\"/linked\", //Shows a message with the number of linked structures to a structure you are looking at."
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Battlepass/AutoBases",
+				"imageurl": "https://i.imgur.com/UDvOqUL.png",
+				"content": [
+					{
+						"title": "ArkLegends Battlepass",
+						"text": "The Battlepass is back and better than ever. More robust objectives and rewards! Make your way through map specific harvesting, taming and killing objectives.\r\n\r\nRewards of shop points and single/breeding pairs of some of the best stuff we have here.\r\n\r\nThe Battlepass does not use cryos of any kind some when claiming a reward make sure there is enough room for your dino to spawn in. Also water dino rewards can only spawn in the water so make sure your in water with enough room for the water dino to spawn as well.\r\n\r\nTo open the Battlepass on PC hit F3. On console hit L2 + Square.\r\n\r\nAs more core maps release for the game the Battlepass will be updated with added objectives for them."
+					},
+					{
+						"title": "AutoBases",
+						"text": "Our AutoBase allows us to bring some PVP to our PVE cluster.\r\n\r\nEach map will notify you when a \"Raid Base\" spawns with the coordinates. They are protected by tek shields so they dont attack players passing by. Each raid base has a random \"core structure\" that when destroyed will wipe the whole base whether you have looted it or not. When a base is wiped from destroying a core structure, you will get rewards sent to your inventory.  Its up to you and or ur tribe to raid the bases if you choose. The danger is real and the rewards are worthy. These are unmanned auto generated raid bases. So bring your best tactics and of course dinos!!!"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/4YNhUEcJsu"
+			},
+			{
+				"text": "Webshop",
+				"url": "https://arklegendspve.tip4serv.com/"
+			},
+			{
+				"text": "Vote Link",
+				"url": "https://ark-servers.net/server/359075/"
+			},
+			{
+				"text": "Feedback",
+				"url": "https://arklegendspve.com/feedback"
+			}
+		],
+		"version": 2
+	}
+}
