@@ -114,14 +114,6 @@
 					{
 						"title": "Current Players Online",
 						"text": "{playerlist}"
-					},
-					{
-						"title": "Tarifas",
-						"text": "Multiplicador de velocidad de domesticación 10 (instantáneo con mod de poción)\r\nMultiplicador de cantidad de cosecha 5\r\nMultiplicador de velocidad 3 para bebés maduros (instantáneo con mod de poción)\r\nIntervalo de abrazo 0.4\r\nMultiplicador de velocidad para la eclosión de huevos 7\r\nMultiplicador de intervalo de apareamiento 0.7 (instantáneo con mod de poción)\r\nMultiplicador de calidad del botín de pesca 3\r\nMultiplicador de calidad del botín de la caja de suministros 3\r\nMultiplicador de XP 3\r\nMultiplicador de resistencia\r\n0,8\r\nPlayer.Starvation Multiplicador 0.8\r\nMultiplicadores de drenaje general 0,8\r\nPeso por punto de estadística +100\r\nFortaleza por punto de estadística +50\r\nOtras estadísticas son 30 por punto.\r\nGotas de botín modificadas"
-					},
-					{
-						"title": "Modificaciones",
-						"text": "Humanos_NPC_ASA\r\nGSA\r\nImpresionanteSpyGlass\r\nAhorrador de ratón\r\nGigantoraptor\r\nPlataformas Oceánicas de Alfa\r\ngrifos\r\nApilamiento TG 1000/90\r\ncalidad de vida+\r\nTeletransportadores impresionantes\r\nCrónicas draconianas\r\nDinos brillantes\r\nLas locas pociones ascendidas de Crazy\r\nEstructuras Arkitect remasterizadas\r\nRecolectores de recursos\r\nConstructores enanos\r\nHiper extras\r\nDisfraces Míticos\r\nAdiciones ascendidas: todos los dinosaurios\r\nDraconis Glauco\r\nPeinados MarniiMods\r\nDúo Indomable de Moros\r\ndetener el robo\r\nArmario Cliffans"
 					}
 				]
 			},
