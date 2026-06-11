@@ -6,7 +6,7 @@
 			"openbutton": 4,
 			"hideicon": true,
 			"hideiconafter": 30,
-			"iconurl": "https://i.imgur.com/tZKC6lb.png",
+			"iconurl": "https://i.imgur.com/MA2XDgU.png",
 			"disableicontext": false,
 			"iconposition": 0,
 			"icontextcolor": 0,
@@ -18,7 +18,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Welcome",
-				"imageurl": "https://i.imgur.com/UDvOqUL.png",
+				"imageurl": "https://i.imgur.com/y8joqYO.png",
 				"content": [
 					{
 						"title": "Welcome",
@@ -33,7 +33,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Settings",
-				"imageurl": "https://i.imgur.com/UDvOqUL.png",
+				"imageurl": "https://i.imgur.com/y8joqYO.png",
 				"content": [
 					{
 						"title": "Rates",
@@ -48,7 +48,7 @@
 			{
 				"layout": 4,
 				"buttontext": "Features",
-				"imageurl": "https://i.imgur.com/UDvOqUL.png",
+				"imageurl": "https://i.imgur.com/y8joqYO.png",
 				"content": [
 					{
 						"title": "Automation/In-game Shop",
@@ -71,7 +71,7 @@
 			{
 				"layout": 4,
 				"buttontext": "Feat Mods",
-				"imageurl": "https://i.imgur.com/UDvOqUL.png",
+				"imageurl": "https://i.imgur.com/y8joqYO.png",
 				"content": [
 					{
 						"title": "Dino Depot",
@@ -94,7 +94,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Webshop",
-				"imageurl": "https://i.imgur.com/UDvOqUL.png",
+				"imageurl": "https://i.imgur.com/y8joqYO.png",
 				"content": [
 					{
 						"title": "WEBSHOP",
@@ -109,7 +109,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Player List",
-				"imageurl": "https://i.imgur.com/UDvOqUL.png",
+				"imageurl": "https://i.imgur.com/y8joqYO.png",
 				"content": [
 					{
 						"title": "Current Players Online",
@@ -120,7 +120,7 @@
 			{
 				"layout": 4,
 				"buttontext": "Plugins",
-				"imageurl": "https://i.imgur.com/UDvOqUL.png",
+				"imageurl": "https://i.imgur.com/y8joqYO.png",
 				"content": [
 					{
 						"title": "Lethal Decay",
@@ -143,7 +143,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Battlepass/AutoBases",
-				"imageurl": "https://i.imgur.com/UDvOqUL.png",
+				"imageurl": "https://i.imgur.com/y8joqYO.png",
 				"content": [
 					{
 						"title": "ArkLegends Battlepass",
